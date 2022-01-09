@@ -3,7 +3,7 @@
     "short_name": "MyFinTracker",
     "icons": [{
       "src": "path.resolve('./icons/icon-512x512.png')",
-      "sizes": [72, 96, 128, 144, 152, 192, 384, 512]   
+      "sizes": "[72, 96, 128, 144, 152, 192, 384, 512]"   
     }],
     "theme_color": "#ffffff",
     "background_color": "#01597b",
